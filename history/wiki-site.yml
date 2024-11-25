@@ -1,7 +1,7 @@
-url: https://dovedale.wiki/status.txt
-status: up
-code: 200
-responseTime: 857
-lastUpdated: 2024-11-24T23:19:48.194Z
+url: https://dovedale.wiki/wiki/Special:SpecialPages
+status: down
+code: 403
+responseTime: 64
+lastUpdated: 2024-11-25T14:24:02.585Z
 startTime: 2024-05-13T13:00:50.147Z
 generator: Upptime <https://github.com/upptime/upptime>
