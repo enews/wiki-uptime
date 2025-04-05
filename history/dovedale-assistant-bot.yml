@@ -1,7 +1,7 @@
 url: http://kairi.tokyo:8080/
-status: up
+status: degraded
 code: 200
-responseTime: 257
-lastUpdated: 2025-04-05T09:44:12.648Z
+responseTime: 19997
+lastUpdated: 2025-04-05T10:33:19.793Z
 startTime: 2024-09-20T10:57:04.943Z
 generator: Upptime <https://github.com/upptime/upptime>
