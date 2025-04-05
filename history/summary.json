@@ -38,9 +38,9 @@
     "slug": "dovedale-assistant-bot",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "87.28%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "87.96%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.93%",
     "time": 1731,
     "timeDay": 10459,
@@ -48,7 +48,7 @@
     "timeMonth": 10459,
     "timeYear": 1731,
     "dailyMinutesDown": {
-      "2025-04-05": 184,
+      "2025-04-05": 174,
       "2024-10-21": 19
     }
   },
