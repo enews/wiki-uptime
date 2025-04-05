@@ -23,7 +23,7 @@ sites:
       - jaiden-04
   - name: Dovedale Roblox Joiner
     url: https://join.dovedale.wiki/
-    icon: https://ibb.co/6k2QGkQ
+    icon: https://i.ibb.co/Xq9H6qH/logo.png
     maxResponseTime: 2000
     assignees:
       - jaiden-04
