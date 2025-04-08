@@ -4,11 +4,11 @@
     "url": "https://dovedale.wiki/load.php",
     "icon": "https://icons.duckduckgo.com/ip3/dovedale.wiki.ico",
     "slug": "wiki-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.58%",
     "time": 996,
     "timeDay": 415,
@@ -16,6 +16,7 @@
     "timeMonth": 525,
     "timeYear": 996,
     "dailyMinutesDown": {
+      "2025-04-08": 3,
       "2024-10-17": 147,
       "2024-10-05": 66,
       "2024-09-15": 47,
@@ -57,27 +58,29 @@
     "url": "https://webhook.dovedale.wiki/",
     "icon": "https://webhook.dovedale.wiki/img/logo.svg",
     "slug": "dovedale-webhook-proxy",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 546,
     "timeDay": 503,
     "timeWeek": 546,
     "timeMonth": 546,
     "timeYear": 546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 2
+    }
   },
   {
     "name": "Dovedale Roblox Joiner",
     "url": "https://join.dovedale.wiki/",
     "icon": "https://i.ibb.co/B5TvJmTd/logo-1.png",
     "slug": "dovedale-roblox-joiner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -86,24 +89,28 @@
     "timeWeek": 586,
     "timeMonth": 586,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 0
+    }
   },
   {
     "name": "Dovedale Live Map",
     "url": "https://map.dovedale.wiki/",
     "icon": "https://icons.duckduckgo.com/ip3/map.dovedale.wiki.ico",
     "slug": "dovedale-live-map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 408,
-    "timeDay": 321,
-    "timeWeek": 408,
-    "timeMonth": 408,
-    "timeYear": 408,
-    "dailyMinutesDown": {}
+    "time": 362,
+    "timeDay": 202,
+    "timeWeek": 362,
+    "timeMonth": 362,
+    "timeYear": 362,
+    "dailyMinutesDown": {
+      "2025-04-08": 0
+    }
   }
 ]
