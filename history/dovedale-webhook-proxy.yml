@@ -1,7 +1,7 @@
 url: https://webhook.dovedale.wiki/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-08T19:03:14.856Z
+status: degraded
+code: 521
+responseTime: 22045
+lastUpdated: 2025-04-08T19:29:48.662Z
 startTime: 2025-04-05T07:57:42.892Z
 generator: Upptime <https://github.com/upptime/upptime>
