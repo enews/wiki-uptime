@@ -1,7 +1,7 @@
 url: https://join.dovedale.wiki/
-status: up
-code: 200
-responseTime: 415
-lastUpdated: 2025-06-26T23:21:00.895Z
+status: degraded
+code: 523
+responseTime: 2063
+lastUpdated: 2025-06-27T13:08:33.740Z
 startTime: 2025-04-05T07:57:44.015Z
 generator: Upptime <https://github.com/upptime/upptime>
