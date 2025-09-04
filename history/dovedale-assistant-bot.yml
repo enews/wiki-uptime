@@ -1,7 +1,7 @@
 url: http://kairi.tokyo/
-status: up
-code: 200
-responseTime: 232
-lastUpdated: 2025-09-04T09:49:34.118Z
+status: down
+code: 502
+responseTime: 4148
+lastUpdated: 2025-09-04T15:46:16.941Z
 startTime: 2024-09-20T10:57:04.943Z
 generator: Upptime <https://github.com/upptime/upptime>
