@@ -15,7 +15,7 @@ sites:
     maxResponseTime: 5000
     assignees:
       - kairijp
-  - name: Dovedale Railway Translation Panel
+  - name: Dovedale Translation Panel
     url: https://translation.kairi.tokyo/
     icon: https://translation.kairi.tokyo/1
     maxResponseTime: 2000
