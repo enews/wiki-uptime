@@ -1,7 +1,7 @@
 url: https://dovedale.wiki/load.php
-status: degraded
-code: 522
-responseTime: 20126
-lastUpdated: 2025-11-12T05:00:19.337Z
+status: up
+code: 200
+responseTime: 1460
+lastUpdated: 2025-11-12T05:23:00.206Z
 startTime: 2024-05-13T13:00:50.147Z
 generator: Upptime <https://github.com/upptime/upptime>
