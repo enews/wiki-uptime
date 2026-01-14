@@ -1,7 +1,7 @@
 url: https://kairi.cat/
-status: up
-code: 200
-responseTime: 323
-lastUpdated: 2026-01-13T23:22:25.532Z
+status: down
+code: 502
+responseTime: 380
+lastUpdated: 2026-01-14T15:59:09.782Z
 startTime: 2024-09-20T10:57:04.943Z
 generator: Upptime <https://github.com/upptime/upptime>
